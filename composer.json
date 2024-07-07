@@ -1,0 +1,17 @@
+{
+    "name": "aivisvigo/popping-numbers",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aivis-vigo",
+            "email": "aivisvigoreimarts@gmail.com"
+        }
+    ],
+    "require": {}
+}
