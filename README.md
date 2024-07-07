@@ -24,8 +24,8 @@ Number Pop is a simple console-based game where the player competes against an o
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aivis-vigo/number-pop-game.git
-   cd number-pop-game
+   git clone https://github.com/aivis-vigo/PoppingNumbers.git
+   cd PoppingNumbers
 
 2. Install dependencies using composer:
     
